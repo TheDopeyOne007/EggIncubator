@@ -179,3 +179,5 @@ void manageHumd(float temp, float humd){
     display_data(temp, humd, tempC, humdC);
   } 
 } 
+
+
